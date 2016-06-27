@@ -1,32 +1,32 @@
 ﻿$(function(){
-	// $.ajax({
-	// 	type: "GET",
-	// 	url: "ajax/message.json",
-	// 	dataType: "json",
-	// 	success: function(data){
-	// 		for(var i in data.about_info){
-	// 			$("#about_info").append("<p>"+data.about_info[i]+"</p>");
-	// 		}
-	// 		$("#skill_info").append("<p>"+data.skill_info+"</p>");
-	// 		$(".skill_int").append("<ul></ul>");
-	// 		for(var i in data.seo){
-	// 			$("#skill_int1 ul").append("<li>"+data.seo[i]+"</li>");
-	// 		}
-	// 		for(var i in data.html){
-	// 			$("#skill_int2 ul").append("<li>"+data.html[i]+"</li>");
-	// 		}
-	// 		for(var i in data.css){
-	// 			$("#skill_int3 ul").append("<li>"+data.css[i]+"</li>");
-	// 		}
-	// 		for(var i in data.javaScript){
-	// 			$("#skill_int4 ul").append("<li>"+data.javaScript[i]+"</li>");
-	// 		}
-	// 		$("#exp_info").append("<p>"+data.exp_info+"</p>");
-	// 		for(var i in data.contact_info){
-	// 			$("#contact_info").append("<p>"+data.contact_info[i]+"</p>");	
-	// 		}
-	// 	}
-	// });
+	$.ajax({
+		type: "GET",
+		url: "ajax/message.json",
+		dataType: "json",
+		success: function(data){
+			for(var i in data.about_info){
+				$("#about_info").append("<p>"+data.about_info[i]+"</p>");
+			}
+			$("#skill_info").append("<p>"+data.skill_info+"</p>");
+			$(".skill_int").append("<ul></ul>");
+			for(var i in data.seo){
+				$("#skill_int1 ul").append("<li>"+data.seo[i]+"</li>");
+			}
+			for(var i in data.html){
+				$("#skill_int2 ul").append("<li>"+data.html[i]+"</li>");
+			}
+			for(var i in data.css){
+				$("#skill_int3 ul").append("<li>"+data.css[i]+"</li>");
+			}
+			for(var i in data.javaScript){
+				$("#skill_int4 ul").append("<li>"+data.javaScript[i]+"</li>");
+			}
+			$("#exp_info").append("<p>"+data.exp_info+"</p>");
+			for(var i in data.contact_info){
+				$("#contact_info").append("<p>"+data.contact_info[i]+"</p>");	
+			}
+		}
+	});
     $('#dowebok').fullpage({
 		scrollingSpeed: 400,
 		css3: true,
