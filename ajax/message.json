@@ -1,6 +1,6 @@
 ﻿{
 	"about_info":[
-		"2015年9月毕业于揭西电大，现就职于深圳市天地网电子商务有限公司",
+		"2015年9月毕业于揭阳职业技术学院，现就职于深圳市天地网电子商务有限公司",
 		"工作之余喜欢钻研web前端技术，对精美的网页尤为敬佩和喜爱",
 		"日新月异的web前沿技术和层出不穷的框架让我既兴奋又期待",
 		"代码强迫症患者，看漂亮的代码对我而言是一种极致享受"
@@ -29,15 +29,13 @@
 		"对SEO有较为初步认识，能够对网站流量和转化率的提升给出建设性的方案",
 		"微博、微信等新媒体的营销和推广"
 	],
-	"exp_info":"2014年毕业后，在工作之余开始了web前端自学生涯。",
+	"exp_info":"2015年毕业后，在工作之余开始了web前端自学生涯。",
 	"exp_list_left1":[
-		"<dt>四川工商学院</dt>",
-		"<p class='exp_list_time'>2010年9月~2014年6月</p>",
-		"<dd>就读<a href='#' class='md-trigger' data-modal='modal-13'>电子工程系</a></dd>",
-		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>计算机二级c语言证书</a></dd>",
-		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>计算机四级网络工程师证书</a></dd>",
-		"<dd>通过<a href='#' class='md-trigger' data-modal='modal-13'>Cisco Certified Network Associate（CCNA）认证</a></dd>",
-		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>机动车驾驶证c1</a></dd>"
+		"<dt>揭阳职业技术学院</dt>",
+		"<p class='exp_list_time'>2012年9月~2015年6月</p>",
+		"<dd>就读<a href='#' class='md-trigger' data-modal='modal-13'>计算机应用技术</a></dd>",
+		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>计算机二级证书</a></dd>",
+		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>计算机四级网络工程师证书</a></dd>"
 	],
 	"exp_list_left2":[
 		"<dt>深圳市天地网电子商务有限公司</dt>",
@@ -48,17 +46,17 @@
 		"<dd>开始了解到web前端这门技术，产生极大的兴趣</dd>"
 	],
 	"exp_list_left3":[
-		"<dt>四川卓煌企业管理有限公司</dt>",
-                "<p class='exp_list_time'>2014年9月~现在</p>",
-                "<dd>管理部</dd>",
-                "<dd>负责官网框架建设，后台维护</dd>",
-                "<dd>负责百度竞价操作及seo优化</dd>",
-                "<dd>同期工作之余开始<a href='#' class='md-trigger' data-modal='modal-13'>系统性的自学web前端各项技术</a></dd>"
+		"<dt>潮声派对吧</dt>",
+    "<p class='exp_list_time'>2015年10月~2016年2月</p>",
+    "<dd>调酒师</dd>",
+    "<dd>这是第一家工作, 在酒吧里做调酒师</dd>",
+    "<dd>在做程序员的朋友的影响下, 了解到能做一个WEB页面很有意思</dd>",
+    "<dd>在工作之余开始<a href='#' class='md-trigger' data-modal='modal-2'>尝试性的自学web前端各项技术</a></dd>"
 	],
 	"contact_info":[
 		"学习是一个充实愉悦的过程",
-		"前端更贴近用户，这种体验非常美妙",
-		"热爱FE.D，也热爱一切美好的事物",
+		"前端更贴近用户, 所见即所得，这种体验非常美妙",
+		"热爱Front-End，喜欢不断的学习",
 		"行路有良友，便是捷径",
 		"带上我吧，一起看到更大的世界"
 	]

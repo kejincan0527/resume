@@ -104,7 +104,7 @@
 			}
 			if(index==5){
 				$("aside a").eq(4).addClass("selected").siblings().removeClass("selected");
-				$("#demo_content h1").after("<div class='title_en'><h2>· Demo ·</h2></div>");
+				$("#demo_content h1").after("<div class='title_en'><h2>· Learning ·</h2></div>");
 				$(".title_en").animate({width:"130px"},800,function(){
 					$(".title_en h2").slideDown(400);
 				});	
